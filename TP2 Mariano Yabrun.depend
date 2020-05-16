@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589654532 source:c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"datawarehouse.h"
+
+1589654585 c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\funciones.h
+
+1589654532 c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\datawarehouse.h
+
+1589654532 source:c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
